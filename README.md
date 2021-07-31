@@ -14,4 +14,4 @@ The test filepaths are provided in the `TestProperties` class.
 
 ## Screenshot(s)
 Screenshot of my tests passing.
-![7 passing tests](screenshots/7 passing tests.PNG)
+![Unit Tests Passed](screenshots/7 passing tests.jpg?raw=true)
