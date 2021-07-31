@@ -13,6 +13,7 @@ The test filepaths are provided in the `TestProperties` class.
 
 
 ## Screenshot(s)
-Screenshots are shown below.
+Screenshot of my tests passing.
+![Unit Tests Passed](/screenshots/7-unit-tests-passed.jpg?raw=true)
 
 Below we can see that all 7 test cases have passed:
