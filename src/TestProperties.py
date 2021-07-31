@@ -1,0 +1,6 @@
+ADDITION_FILE_NAME = '../csv/Unit Test Addition.csv'
+DIVISION_FILE_NAME = '../csv/Unit Test Division.csv'
+MULTIPLICATION_FILE_NAME = '../csv/Unit Test Multiplication.csv'
+SQUARE_FILE_NAME = '../csv/Unit Test Square.csv'
+SQUARE_ROOT_FILE_NAME = '../csv/Unit Test Square Root.csv'
+SUBTRACTION_FILE_NAME = '../csv/Unit Test Subtraction.csv'
