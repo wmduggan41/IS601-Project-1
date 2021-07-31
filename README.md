@@ -14,4 +14,4 @@ The test filepaths are provided in the `TestProperties` class.
 
 ## Screenshot(s)
 Screenshot of my tests passing.
-![7 passing tests](C:\Users\wmdug\Documents\NJIT\IS601\pythonProject1\screenshots\7 passing tests.PNG)
+![7 passing tests](screenshots/7 passing tests.PNG)
